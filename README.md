@@ -554,3 +554,7 @@ If you encounter issues:
 **AI Trip Planner** — Practical AI-assisted travel planning with real-world, free data.
 
 Made with ❤️ by Harsh Lad
+#   A I - T R I P - P L A N N E R  
+ #   A I - T R I P - P L A N N E R  
+ #   A I - T R I P - P L A N N E R  
+ 
