@@ -1,12 +1,6 @@
 # AI Trip Planner
 
-![Stack](https://img.shields.io/badge/Stack-MERN-green)
-![AI](https://img.shields.io/badge/AI-Google%20Gemini-orange)
-![Maps](https://img.shields.io/badge/Maps-OpenStreetMap-blue)
-![Routing](https://img.shields.io/badge/Routing-OSRM-purple)
-![Auth](https://img.shields.io/badge/Auth-JWT-red)
-![Deployment](https://img.shields.io/badge/Deployment-Vercel%20%7C%20Render-black)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+![Stack](https://img.shields.io/badge/Stack-MERN-green) ![AI](https://img.shields.io/badge/AI-Google%20Gemini-orange) ![Maps](https://img.shields.io/badge/Maps-OpenStreetMap-blue) ![Routing](https://img.shields.io/badge/Routing-OSRM-purple) ![Auth](https://img.shields.io/badge/Auth-JWT-red) ![Deployment](https://img.shields.io/badge/Deployment-Vercel%20%7C%20Render-black) ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 **AI Trip Planner** is a full-stack MERN application that uses AI-assisted reasoning and free, open-source mapping services to generate intelligent travel itineraries in real time.
 
@@ -24,7 +18,6 @@ AI Trip Planner combines **Google Gemini AI**, **OpenStreetMap**, and **OSRM rou
 
 - **Live Application**: [https://trips-planner-blue.vercel.app/](https://trips-planner-blue.vercel.app/)
 - **Video Demo**: [https://youtu.be/2isgUskJNqY](https://youtu.be/2isgUskJNqY)
-- **GitHub Repository**: [https://github.com/ladHarsh/AI-TripPlanner](https://github.com/ladHarsh/AI-TripPlanner)
 - **Portfolio**: [https://harshlad.vercel.app/](https://harshlad.vercel.app/)
 
 ---
