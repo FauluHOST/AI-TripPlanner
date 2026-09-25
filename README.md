@@ -12,13 +12,7 @@ The system focuses on practical integration, scalability, and user-centric plann
 
 AI Trip Planner combines **Google Gemini AI**, **OpenStreetMap**, and **OSRM routing** to create personalized travel plans with live location data, secure authentication, and a production-ready MERN architecture—**all using free, open-source services**.
 
----
-
-## Links
-
-- **Live Application**: [https://trips-planner-blue.vercel.app/](https://trips-planner-blue.vercel.app/)
-- **Video Demo**: [https://youtu.be/2isgUskJNqY](https://youtu.be/2isgUskJNqY)
-- **Portfolio**: [https://harshlad.vercel.app/](https://harshlad.vercel.app/)
+--
 
 ---
 
